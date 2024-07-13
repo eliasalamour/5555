@@ -45,3 +45,9 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = MultiWindowApp(root)
     root.mainloop()
+    git init
+git add multi_window_app.py
+git commit -m "Initial commit"
+git remote add origin https://github.com/username/repository-name.git
+git push -u origin master
+
